@@ -1,3 +1,11 @@
 This repository contains the K18 and KW01 model output used in the manuscript 
 "Chau-Lam Yu, Anthony C. Didlake, Jr., Jeffrey D. Kepert and Fuqing Zhang: Investigating axisymmetric and asymmetric signals of secondary eyewall formation using observations-based modeling of the tropical cyclone boundary layer"
 For bootstrapping experiments, only subset of the azimuthally averaged variables are stored, while for all other experiments full model data are stored.
+
+List of dataset:
+K18_axisymmetric:         Axisymmetric runs used -- Fig. 3
+PreSEF_Asym:              Asymmetric runs used -- Fig. 4, 5ab
+PreSEF_AxisymQuadForcing: Axisymmetric runs for PreSEF quadrants -- Fig.5cd
+Bootstrap_aziavg_All.rar: Bootstrapping dataset for PreSEF quadrants -- Fig. 6-7
+PosSEF_Q12:               Axisymmetric runs for PosSEF quadrants -- Fig. 8ab
+NonSEF_Q12:               Axisymmetric runs for NonSEF quadrants -- Fig. 8cd
