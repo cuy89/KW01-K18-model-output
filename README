@@ -1,0 +1,3 @@
+This repository contains the K18 and KW01 model output used in the manuscript 
+"Chau-Lam Yu, Anthony C. Didlake, Jr., Jeffrey D. Kepert and Fuqing Zhang: Investigating axisymmetric and asymmetric signals of secondary eyewall formation using observations-based modeling of the tropical cyclone boundary layer"
+For bootstrapping experiments, only subset of the azimuthally averaged variables are stored, while for all other experiments full model data are stored.
