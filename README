@@ -1,11 +1,14 @@
-This repository contains the axisymmetric and asymmetric K18 outputs used in the manuscript:
+This repository contains the axisymmetric and asymmetric K18 outputs presented in the following paper:
 "Chau-Lam Yu, Anthony C. Didlake, Jr., Jeffrey D. Kepert and Fuqing Zhang: Investigating axisymmetric and asymmetric signals of secondary eyewall formation using observations-based modeling of the tropical cyclone boundary layer"
-For bootstrapping experiments, only subset of the azimuthally averaged variables are stored, while for all other experiments full model data are stored.
+For bootstrapping experiments (PreSEF, NonSEF and PosSEF), only a subset of the azimuthally averaged variables are stored, while for all other experiments full model data are stored.
 
 List of dataset:
-K18_axisymmetric:         Axisymmetric runs used -- Fig. 3
-PreSEF_Asym:              Asymmetric runs used -- Fig. 4, 5ab
-PreSEF_AxisymQuadForcing: Axisymmetric runs for PreSEF quadrants -- Fig.5cd
-Bootstrap_aziavg_All.rar: Bootstrapping dataset for PreSEF quadrants -- Fig. 6-7
-PosSEF_Q12:               Axisymmetric runs for PosSEF quadrants -- Fig. 8ab
-NonSEF_Q12:               Axisymmetric runs for NonSEF quadrants -- Fig. 8cd
+K18_axisymmetric:         Axisymmetric runs used -- Fig. 4
+PreSEF_Asym:              Asymmetric runs used -- Fig. 5 and Fig. 6ab
+PreSEF_AxisymQuadForcing: Axisymmetric runs using quadrant averaged forcing for PreSEF -- Fig.6cd
+PosSEF_Q12:               Axisymmetric runs using quadrant averaged forcing for PosSEF -- Fig. 7ab
+NonSEF_Q12:               Axisymmetric runs using quadrant averaged forcing for NonSEF -- Fig. 7cd
+Bootstrap_PreSEF_aziavg_All.rar: Bootstrapping dataset for PreSEF quadrants -- Fig. 8-9
+Bootstrap_NonSEF_aziavg_All.rar: Bootstrapping dataset for NonSEF quadrants -- Fig. 8
+Bootstrap_PosSEF_aziavg_All.rar: Bootstrapping dataset for PosSEF quadrants -- Fig. 8
+
